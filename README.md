@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhatvaishnavi&theme=jolly)](https://git.io/streak-stats)
 <br/>
 ## Find me around the web 🌏:
-<a href="https://www.instagram.com/vaishnavibhat/"><img src="https://github.com/BhatVaishnavi/BhatVaishnavi/blob/main/instagram.png"/></a>
+<a href="https://www.instagram.com/vaishnavibhat/"><img src="https://github.com/BhatVaishnavi/BhatVaishnavi/blob/main/instagram.png" height=20 width="20/></a>
