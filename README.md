@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vaishnavibhat&theme=jolly&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhatvaishnavi&theme=jolly)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bhatvaishnavi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bhatvaishnavi&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
