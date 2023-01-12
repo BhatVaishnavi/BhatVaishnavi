@@ -1,8 +1,10 @@
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/BhatVaishnavi/BhatVaishnavi/blob/main/banner.png"/></a>
 
-### Hi there! Welcome to my GitHub👋
+##Languages I use 🔮:
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bhatvaishnavi&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+### Hi there! Welcome to my GitHub👋
 **BhatVaishnavi/BhatVaishnavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,6 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Stats 📈:
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vaishnavibhat&theme=jolly&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhatvaishnavi&theme=jolly)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bhatvaishnavi&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+## Find me around the web 🌏:
+<a href="https://www.flaticon.com/free-icons/instagram-logo" title="instagram logo icons">Instagram logo icons created by Laisa Islam Ani - Flaticon</a>
