@@ -1,4 +1,6 @@
-### Hi there 👋
+<a href="URL_REDIRECT" target="blank"><img align="center" src="(https://mocah.org/thumbs/346606-Beautiful-Minimaist-Sunrise-Scenery-Mountain-Forest.jpg)" height="100" /></a>
+
+### Hi there! Welcome to my GitHub👋
 
 <!--
 **BhatVaishnavi/BhatVaishnavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
