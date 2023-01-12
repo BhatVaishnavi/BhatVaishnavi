@@ -1,8 +1,8 @@
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/BhatVaishnavi/BhatVaishnavi/blob/main/banner.png"/></a>
 
 ## Languages I use 🔮:
-</br>
-</br>
+<br/>
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bhatvaishnavi&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
