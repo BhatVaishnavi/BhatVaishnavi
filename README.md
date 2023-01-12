@@ -1,4 +1,4 @@
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/BhatVaishnavi/BhatVaishnavi/blob/main/2923100.jpg" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/BhatVaishnavi/BhatVaishnavi/blob/main/2923100.jpg" height="300" width="680" /></a>
 
 ### Hi there! Welcome to my GitHub👋
 
