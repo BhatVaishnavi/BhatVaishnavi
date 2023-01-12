@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vaishnavibhat&theme=jolly&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhatvaishnavi)](https://github.com/anuraghazra/github-readme-stats)
