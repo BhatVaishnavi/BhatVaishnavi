@@ -1,4 +1,4 @@
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://mocah.org/thumbs/346606-Beautiful-Minimaist-Sunrise-Scenery-Mountain-Forest.jpg" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://mocah.org/thumbs/346606-Beautiful-Minimaist-Sunrise-Scenery-Mountain-Forest.jpg" /></a>
 
 ### Hi there! Welcome to my GitHub👋
 
